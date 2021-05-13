@@ -1,10 +1,8 @@
 <h1 align="center"> Hi 👋 I am Rahul Garg </h1>
 
 <h3 align="center">git commit -m "Hello, I'm a Python Developer at Hewlett Packard Enterprise"</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulgarg95&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgarg95" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=Rahulgarg95&show_icons=true&theme=radical" alt="Rahulgarg95" /></a> </p>
+<br><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulgarg95" alt="Rahulgarg95" /></a> </p>
 
 - 🔭 I’m have technical expertise in:
   * Python Development
@@ -18,7 +16,7 @@
 
 - 💬 Ask me about **Python, ML, Automation, Cassandra/KairosDB**
 
-- 📫 How to reach me: rahulgarg95@gmail.com
+- 📫 Reach out to me at: rahulgarg95@gmail.com
 
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1I4Xppxmeot8muYUbsvjgGFapLBDma5Pw/view?usp=sharing)
 
@@ -57,3 +55,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/> </a>
 <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="apache_cassandra" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulgarg95&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgarg95" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=Rahulgarg95&show_icons=true&theme=radical" alt="Rahulgarg95" /></a> </p>
