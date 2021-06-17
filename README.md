@@ -8,6 +8,7 @@
   * Python Development
   * Data Preprocessing
   * Machine Learning
+  * Deep Learning (Computer Vision and NLP)
   * Report Automation  
   
 - 🌱 I’m currently learning PySpark and AWS  
