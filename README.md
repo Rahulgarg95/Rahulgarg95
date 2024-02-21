@@ -12,7 +12,7 @@
 Passionate about turning data into strategic insights, I am a Senior Data Scientist with 6+ years of experience at Wells Fargo, consistently driving innovation and optimizing processes through advanced data-driven strategies.
 
 **🌱 Currently Learning:**
-PySpark and AWS.
+Generative AI and Advanced Natural Language Processing Techniques.
 
 **👨‍💻 Projects:**
 All of my projects are available at [https://github.com/Rahulgarg95](https://github.com/Rahulgarg95).
@@ -20,12 +20,12 @@ All of my projects are available at [https://github.com/Rahulgarg95](https://git
 **💼 Work Experience:**
 
 🌐 **Wells Fargo | Senior Quantitative Analyst Specialist | Nov 2022 - Present**
-- 🚀 Led development of a cutting-edge data science platform, enhancing data processing efficiency by 20%.
+- 🚀 Led the development of a cutting-edge data science platform, enhancing data processing efficiency by 20%.
 - 📊 Elevated decision-making with advanced visualizations, contributing to a 15% increase in informed choices.
 - 🌟 Pioneered sophisticated time series forecasting models using deep learning techniques for precise scrutiny of Foreign Exchange Volatility movements.
 
 🔍 **Fractal Analytics | Data Scientist | Sept 2021 - Nov 2022**
-- 🚀 Spearheaded creation of a self-serve analytics dashboard for a multinational banking client, positively impacting business outcomes.
+- 🚀 Spearheaded the creation of a self-serve analytics dashboard for a multinational banking client, positively impacting business outcomes.
 - 🛠 Incorporated digital journey analysis, data harmonization, and predictive modeling using big data tools like Spark and PySpark.
 - 🤝 Mentored junior data scientists, leading critical dashboard development for actionable insights delivery.
 
@@ -37,7 +37,7 @@ All of my projects are available at [https://github.com/Rahulgarg95](https://git
 **👨‍💼 [My Resume](https://drive.google.com/file/d/1I4Xppxmeot8muYUbsvjgGFapLBDma5Pw/view?usp=sharing)**
 
 **💬 Ask Me About:**
-Python, ML, Automation, Cassandra/KairosDB.
+Python, Machine Learning, Automation, Cassandra/KairosDD, Deep Learning, Natural language Processing, Model Deployment.
 
 **📫 Reach Out:**
 rahulgarg95@gmail.com
