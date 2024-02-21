@@ -34,7 +34,7 @@ All of my projects are available at [https://github.com/Rahulgarg95](https://git
 - 🚀 Delivered 5 end-to-end telecom-based use cases, leveraging Pyspark, Pandas, and ML techniques, reducing overhead time by 20-30%.
 - 🤖 Developed and automated analytical reports and dashboards using Python and strong data analytical skills.
 
-**👨‍💼 [My Resume](https://drive.google.com/file/d/1I4Xppxmeot8muYUbsvjgGFapLBDma5Pw/view?usp=sharing)**
+**👨‍💼 [My Resume](https://drive.google.com/file/d/1c85tTzV-kCLB4ksNPDpN8zLEbmqz85Hu/view?usp=sharing)**
 
 **💬 Ask Me About:**
 Python, Machine Learning, Automation, Cassandra/KairosDD, Deep Learning, Natural language Processing, Model Deployment.
