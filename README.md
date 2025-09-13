@@ -1,64 +1,179 @@
-<h1 align="center"> Hi 👋 I am Rahul Garg </h1>
+<div align="center">
 
-<h3 align="center">git commit -m "Senior Data Scientist at Wells Fargo"</h3>
-<br><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulgarg95" alt="Rahulgarg95" /></a> </p>
+# Hi 👋 I'm Rahul Garg
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahulgarg95&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulgarg95" />
-</p>
+### 🚀 Senior Data Scientist | GenAI Strategist | Enterprise ML Expert
+**Turning data into strategic insights across Financial Services & Beyond**
 
-**🚀 About Me:**
-Passionate about turning data into strategic insights, I am a Senior Data Scientist with 6+ years of experience at Wells Fargo, consistently driving innovation and optimizing processes through advanced data-driven strategies.
+[![Profile Views](https://komarev.com/ghpvc/?username=Rahulgarg95&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Rahulgarg95)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgarg95/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/iamrahul95/)
 
-**🌱 Currently Learning:**
-Generative AI and Advanced Natural Language Processing Techniques.
+</div>
 
-**👨‍💻 Projects:**
-All of my projects are available at [https://github.com/Rahulgarg95](https://github.com/Rahulgarg95).
+---
 
-**💼 Work Experience:**
+## 🎯 **About Me**
 
-🌐 **Wells Fargo | Senior Quantitative Analyst Specialist | Nov 2022 - Present**
-- 🚀 Led the development of a cutting-edge data science platform, enhancing data processing efficiency by 20%.
-- 📊 Elevated decision-making with advanced visualizations, contributing to a 15% increase in informed choices.
-- 🌟 Pioneered sophisticated time series forecasting models using deep learning techniques for precise scrutiny of Foreign Exchange Volatility movements.
+**7+ years** of transforming complex data challenges into business impact at **Wells Fargo**, **Fractal Analytics**, and **HPE**. Currently pioneering GenAI applications in financial services while sharing insights through my **52-week GenAI content series** on LinkedIn.
 
-🔍 **Fractal Analytics | Data Scientist | Sept 2021 - Nov 2022**
-- 🚀 Spearheaded the creation of a self-serve analytics dashboard for a multinational banking client, positively impacting business outcomes.
-- 🛠 Incorporated digital journey analysis, data harmonization, and predictive modeling using big data tools like Spark and PySpark.
-- 🤝 Mentored junior data scientists, leading critical dashboard development for actionable insights delivery.
+- 🔥 **Currently:** Senior Quantitative Analyst at Wells Fargo (S&P Global/CarFax)
+- 🧠 **Expertise:** Enterprise GenAI, Time Series Forecasting, NLP, MLOps
+- 📚 **Learning:** Advanced RAG architectures, LangChain/LangGraph, Agentic AI
+- 💡 **Creating:** Weekly GenAI insights for 10K+ data science professionals
+- 🎯 **Goal:** Bridging the gap between GenAI research and enterprise implementation
 
-🖥 **Hewlett Packard Enterprise | Svc Info Developer | Oct 2017 - Sept 2021**
-- 📈 Developed and implemented KPIs, reducing SLA breaches by 40%.
-- 🚀 Delivered 5 end-to-end telecom-based use cases, leveraging Pyspark, Pandas, and ML techniques, reducing overhead time by 20-30%.
-- 🤖 Developed and automated analytical reports and dashboards using Python and strong data analytical skills.
+---
 
-**👨‍💼 [My Resume](https://drive.google.com/file/d/1c85tTzV-kCLB4ksNPDpN8zLEbmqz85Hu/view?usp=sharing)**
+## 🏆 **GitHub Achievements**
 
-**💬 Ask Me About:**
-Python, Machine Learning, Automation, Cassandra/KairosDD, Deep Learning, Natural language Processing, Model Deployment.
+<div align="center">
 
-**📫 Reach Out:**
-rahulgarg95@gmail.com
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahulgarg95&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahulgarg95/" target="blank"><img align="left" alt="rahulgarg95 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-  <a href="https://twitter.com/iamrahul95/" target="blank"><img align="left" alt="iamrahul95 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-  <a href="https://www.instagram.com/rahul_garg95/" target="blank"><img align="left" alt="rahul_garg95 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
-</p>
+</div>
 
-<br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon_aws" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft_azure" width="40" height="40"/> </a>
-  <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="apache_cassandra" width="40" height="40"/> </a>
-  <!-- Add more icons as per your expertise -->
-</p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=Rahulgarg95&show_icons=true&theme=radical" alt="Rahulgarg95" /></a> </p>
+## 💼 **Professional Journey**
+
+### 🏦 **Wells Fargo** | Senior Quantitative Analyst Specialist
+*Nov 2022 - Present*
+- 🚀 **20% efficiency boost** in FX data processing through advanced analytics platform
+- 📊 **15% improvement** in trading decision-making via sophisticated visualizations  
+- 🤖 **25% accuracy gain** in market sentiment analysis using fine-tuned FinBERT
+- 💹 Pioneered LSTM-based time series models for FX volatility forecasting
+
+### 📈 **Fractal Analytics** | Senior Data Scientist  
+*Sep 2021 - Nov 2022*
+- 🎯 Built self-serve analytics dashboard for multinational banking client
+- ⚡ Integrated big data tools (Spark, PySpark) for digital journey analysis
+- 👥 Mentored junior data scientists on enterprise ML best practices
+
+### 💻 **Hewlett Packard Enterprise** | Service Info Developer
+*Oct 2017 - Sep 2021*  
+- 🎖️ **MVP Recognition:** 2019 & 2020
+- 🏆 **Best Innovation Project** in India (2020)
+- ⚡ **40% reduction** in SLA breaches through proactive KPI monitoring
+- 🛠️ Delivered 5 end-to-end telecom ML solutions, reducing overhead by 20-30%
+
+---
+
+## 🔬 **Featured Projects**
+
+### 🤖 **FinBERT Sentiment Analysis for Trading**
+Advanced NLP pipeline analyzing trader commentary to predict market movements
+- **Tech:** FinBERT, HuggingFace, Streamlit, HBASE
+- **Impact:** 25% improvement in sentiment-driven market predictions
+- **Novelty:** Cross-validated sentiment signals with actual PnL data
+
+### 📊 **Self-Monitoring Platform (HPE)**  
+Proactive anomaly detection system for enterprise IT infrastructure
+- **Tech:** Time Series Analysis, Anomaly Detection, Python
+- **Impact:** 60% downtime reduction, 20% faster root cause resolution
+- **Scale:** Monitoring 1000+ enterprise systems across geo regions
+
+### 🎯 **Telecom Analytics Suite**
+End-to-end ML pipeline for telecom operations optimization
+- **Tech:** PySpark, MLlib, Statistical Modeling
+- **Impact:** 20-30% overhead reduction across 5 use cases
+- **Recognition:** Company-wide innovation showcase
+
+---
+
+## 🛠️ **Tech Stack & Expertise**
+
+<div align="center">
+
+### **Programming & ML**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### **GenAI & NLP**
+![HuggingFace](https://img.shields.io/badge/-🤗%20HuggingFace-FFD21E?style=flat&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/-BERT-4285F4?style=flat&logoColor=white)
+
+### **Big Data & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📚 **Continuous Learning & Certifications**
+
+- 🎓 **Deep Learning Specialization** - Coursera (Andrew Ng)
+- 🔤 **Natural Language Processing Specialization** - Coursera  
+- 🏆 **AWS Certified** - Cloud Practitioner
+- 📖 **Currently Studying:** Advanced RAG Systems, Multi-Agent Architectures
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulgarg95&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulgarg95&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulgarg95&theme=radical)
+
+</div>
+
+---
+
+## 💡 **Thought Leadership & Content**
+
+- 📝 **52-Week GenAI Series** on LinkedIn (10K+ professionals following)
+- 🎤 **ML Tips Tuesday** - Weekly practical insights for data scientists
+- 📊 **Industry Analysis** - GenAI adoption in Financial Services
+- 🎯 **Enterprise AI** - Bridging research-to-production gap
+
+**Latest Content:**
+- ["What is Generative AI? (It's Not What You Think)"](https://linkedin.com/in/rahulgarg95)
+- ["Traditional AI vs GenAI: Netflix vs Blockbuster All Over Again"](https://linkedin.com/in/rahulgarg95)
+- ["The 4 Building Blocks Every GenAI System Needs"](https://linkedin.com/in/rahulgarg95)
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+I'm always excited to discuss:
+- 🤖 **GenAI applications** in enterprise environments  
+- 📈 **ML strategy** for financial services
+- 🚀 **Career growth** in data science
+- 💡 **Technical challenges** and innovative solutions
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulgarg95/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgarg95@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamrahul95/)
+
+### 📄 **[View My Resume](https://drive.google.com/file/d/1c85tTzV-kCLB4ksNPDpN8zLEbmqz85Hu/view?usp=sharing)**
+
+</div>
+
+---
+
+<div align="center">
+
+*"Turning complex data into simple insights, one algorithm at a time"* 🚀
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
